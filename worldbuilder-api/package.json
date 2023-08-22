@@ -1,0 +1,17 @@
+{
+  "name": "@actuallyadequate/worldbuilder-api",
+  "version": "1.0.1",
+  "description": "Editor API for Worldbuilder Software",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Actually Adequate",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.5.1",
+    "typescript": "^5.1.6"
+  }
+}

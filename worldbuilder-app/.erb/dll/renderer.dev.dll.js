@@ -10,6 +10,17 @@ var renderer;
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
+/***/ "./node_modules/@actuallyadequate/worldbuilder-api/lib/index.js":
+/*!**********************************************************************!*\
+  !*** ./node_modules/@actuallyadequate/worldbuilder-api/lib/index.js ***!
+  \**********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   Editor: () => (/* binding */ Editor)\n/* harmony export */ });\nclass Editor {\n    name;\n    constructor(name) {\n        this.name = name;\n    }\n}\n\n\n//# sourceURL=webpack://renderer/./node_modules/@actuallyadequate/worldbuilder-api/lib/index.js?");
+
+/***/ }),
+
 /***/ "./node_modules/@remix-run/router/dist/router.js":
 /*!*******************************************************!*\
   !*** ./node_modules/@remix-run/router/dist/router.js ***!

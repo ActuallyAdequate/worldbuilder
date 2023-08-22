@@ -1,6 +1,6 @@
 {
   "name": "@actuallyadequate/worldbuilder-api",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "description": "Editor API for Worldbuilder Software",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

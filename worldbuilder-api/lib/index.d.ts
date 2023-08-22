@@ -3,4 +3,5 @@ export declare abstract class Editor {
     constructor(name: string);
     abstract OnOpen(): void;
     abstract OnClose(): void;
+    abstract OnRender(): HTMLElement;
 }

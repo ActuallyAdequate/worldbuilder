@@ -8,5 +8,5 @@ export abstract class Editor {
 
     abstract OnOpen():void;
     abstract OnClose():void;
-
+    abstract OnRender(): HTMLElement;
 }
